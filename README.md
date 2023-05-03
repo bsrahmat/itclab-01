@@ -1,10 +1,22 @@
 # iTCLab-01 Test
 
-This is a collection of scripts written using the Python Jupyter Notebook. This collection of scripts is a support for the Book Fuzzy and Neural Networks Programming for Intelligent Control Systems (Indonesian version).
+iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for feedback control applications with an ESP32 Microcontroller, LED, two heaters, and two temperature sensors. The heating power output is adjusted to maintain the desired temperature setpoint. Heat energy from the heater is transferred by conduction, convection, and radiation to the temperature sensor. Heat is also transferred from the device to the environment.
 
-The authors of this book are Basuki Rahmat and Budi Nugroho. They are both Lecturers in the Informatics Study Program, Universitas Pembangunan Nasional "Veteran" Jawa Timur, Indonesia.
+These iTCLab kits:
+It inspired TCLab Product BYU (Brigham Young University), one of the private campuses in Provo, Utah, United States of America.
+Miniature Control System in a Pocket.
+Practical IoT Learning Package.
+Introduction to IoT Systems.
+IoT programming.
+IoT-Based Control System Practice.
+It can be used to learn System Dynamics and Control Systems.
+It can be used to learn Arduino and Python programming.
+It can be used to learn Programming and Machine Learning.
+And others.
 
-The book link can be accessed at the address: https://www.academia.edu/73452146.
+The underlying difference between TCLab and BYU's TCLab product is replacing the Arduino Uno microcontroller with ESP32. Using this ESP32, iTCLab can connect to the Internet of Things (IoT).
+
+Tutorial for iTCLab Kit test -01, can be accessed at the address: https://www.academia.edu/73452146.
 
 
 <p align="center">
