@@ -15,7 +15,7 @@ About these iTCLab kits :
 
 The underlying difference between TCLab and BYU's TCLab product is replacing the Arduino Uno microcontroller with ESP32. Using this ESP32, iTCLab can connect to the Internet of Things (IoT).
 
-Tutorial for iTCLab Kit test -01, can be accessed at the address: https://www.academia.edu/73452146.
+Tutorial for iTCLab Kit test -01, can be accessed at the address: https://www.academia.edu/101144759.
 
 
 <p align="center">
