@@ -27,7 +27,7 @@ Tutorial for iTCLab Kit test -01, can be accessed at the address: https://www.ac
 
 ## An example of a publication related to this Kits:
 
-<a href="https://www.academia.edu/39509371" target="_blank">Fuzzy and Artificial Neural Networks-Based Intelligent Control Systems Using Python</a>
+<a href="https://www.igi-global.com/pdf.aspx?tid=319461&ptid=296384&ctid=4&oa=true&isxn=9781668456293" target="_blank">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>
 
 <br>
 </br>
@@ -43,17 +43,17 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 <br>
 </br>
 
-## Buy the printed version of this book at Shopee:
+## Buy the iTCLab Kits at Shopee:
 
 <p align="center">
-<a href="https://shopee.co.id/product/78709625/2221051549?smtt=0.78711099-1649659904.9" target="_blank"><img src="https://github.com/bsrahmat/fuzzy-neural/blob/main/beli_fuzzy-jst.jpg" alt="" class="img-responsive" width="700">
+<a href="https://shopee.co.id/product/78709625/11589970517" target="_blank"><img src="https://github.com/bsrahmat/fuzzy-neural/blob/main/beli_fuzzy-jst.jpg" alt="" class="img-responsive" width="700">
 </a>
 </p>
 
 <br>
 </br>
 
-## Other books by the Author can be found at:
+## Other research by the Author can be found at:
 
 https://www.io-t.net/
 
@@ -65,7 +65,7 @@ https://www.io-t.net/
 <br>
 </br>
 
-## Other books by the Author can be found also at:
+## Other research by the Author can be found also at:
 
 http://www.i-ot.net/
 
