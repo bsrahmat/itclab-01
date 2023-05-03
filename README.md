@@ -32,7 +32,7 @@ Tutorial for iTCLab Kit test -01, can be accessed at the address: https://www.ac
 <br>
 </br>
 
-## Other publications by the Author:
+## Other publications by the researcher:
 
 https://fitri.academia.edu/BasukiRahmat
 
@@ -53,7 +53,7 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 <br>
 </br>
 
-## Other research by the Author can be found at:
+## Other research by the IO-T.Net research team can be found at:
 
 https://www.io-t.net/
 
@@ -65,7 +65,7 @@ https://www.io-t.net/
 <br>
 </br>
 
-## Other research by the Author can be found also at:
+## Other research by the I-OT.Net research team can be found also at:
 
 http://www.i-ot.net/
 
