@@ -20,7 +20,7 @@ Tutorial for iTCLab Kit test -01, can be accessed at the address: https://www.ac
 
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/fuzzy-neural/blob/main/buku1.jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
 </p>
 
 <br>
