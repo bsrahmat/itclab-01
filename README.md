@@ -46,7 +46,7 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 ## Buy the iTCLab Kits at Shopee:
 
 <p align="center">
-<a href="https://shopee.co.id/product/78709625/11589970517" target="_blank"><img src="https://github.com/bsrahmat/fuzzy-neural/blob/main/beli_fuzzy-jst.jpg" alt="" class="img-responsive" width="700">
+<a href="https://shopee.co.id/product/78709625/11589970517" target="_blank"><img src="https://github.com/bsrahmat/itclab-01/blob/main/shopee_kit1.jpg" alt="" class="img-responsive" width="700">
 </a>
 </p>
 
