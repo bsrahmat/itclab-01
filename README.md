@@ -3,7 +3,7 @@
 iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for feedback control applications with an ESP32 Microcontroller, LED, two heaters, and two temperature sensors. The heating power output is adjusted to maintain the desired temperature setpoint. Heat energy from the heater is transferred by conduction, convection, and radiation to the temperature sensor. Heat is also transferred from the device to the environment.
 
 About these iTCLab kits :
-- It inspired by <a href="https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl" target="_blank">TCLab Product BYU (Brigham Young University), one of the private campuses in Provo, Utah, United States of America.</a>
+- It inspired by <a href="https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl" target="_blank">TCLab Product of Brigham Young University (BYU), one of the private campuses in Provo, Utah, United States of America.</a>
 - Miniature Control System in a Pocket.
 - Practical IoT Learning Package Tools.
 - IoT programming Kits.
