@@ -1,4 +1,4 @@
-# iTCLab-01 Test
+# iTCLab Testing
 
 iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for feedback control applications with an ESP32 Microcontroller, LED, two heaters, and two temperature sensors. The heating power output is adjusted to maintain the desired temperature setpoint. Heat energy from the heater is transferred by conduction, convection, and radiation to the temperature sensor. Heat is also transferred from the device to the environment.
 
@@ -19,7 +19,7 @@ About these iTCLab kits :
 
 The underlying difference between TCLab and BYU's TCLab product is replacing the Arduino Uno microcontroller with ESP32. Using this ESP32, iTCLab can connect to the Internet of Things (IoT).
 
-Tutorial for <b>iTCLab Kit test -01</b>, can be accessed at the address: https://www.academia.edu/101144759.
+Tutorial for <b>iTCLab Kit test -01</b>, can be accessed at the address: https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf.
 
 An example script for testing the iTCLab Kit is as shown in the following code: https://github.com/bsrahmat/itclab-01/blob/main/01-Test_iTCLab.ino.
 
