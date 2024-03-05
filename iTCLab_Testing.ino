@@ -1,7 +1,11 @@
-/*************************************
- * Program : iTCLab_Testing
- * By      : io-t.net Team
- * ***********************************/
+/*********************************************************************************
+ * Program   : iTCLab_Testing
+ * By        : Assoc. Prof. Dr. Basuki Rahmat, S.Si, MT, ITS-AI, et al
+ * Pro. Team : i-ot.net, io-t.net
+ * R. Group  : Intelligent Control, Robotics and Automation Systems Research Group
+ * Univ.     : Universitas Pembangunan Nasional "Veteran" Jawa Timur
+ * Country   : Indonesia
+ *********************************************************************************/
  
 #include <Arduino.h>
 
