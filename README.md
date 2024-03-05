@@ -21,7 +21,7 @@ The underlying difference between TCLab and BYU's TCLab product is replacing the
 
 Tutorial for <b>iTCLab_Testing</b>, can be accessed at the address: https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf.
 
-An example script for testing the iTCLab Kit is as shown in the following code: https://github.com/bsrahmat/itclab-01/blob/main/01-Test_iTCLab.ino.
+An example script for testing the iTCLab Kit is as shown in the following code: https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.ino.
 
 An example of the test results is shown in the following figure.
 
