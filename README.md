@@ -1,4 +1,4 @@
-## iTCLab Testing
+# iTCLab Testing
 
 iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for feedback control applications with an ESP32 Microcontroller, LED, two heaters, and two temperature sensors. The heating power output is adjusted to maintain the desired temperature setpoint. Heat energy from the heater is transferred by conduction, convection, and radiation to the temperature sensor. Heat is also transferred from the device to the environment.
 
@@ -6,7 +6,7 @@ iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for fee
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/itclab01a.jpg" alt="" class="img-responsive" width="700">
 </p>
 
-# About these iTCLab kits :
+## About these iTCLab kits :
 - It is inspired by <a href="https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl" target="_blank">The TCLab Product of Brigham Young University (BYU), one of the private campuses in Provo, Utah, United States of America.</a>
 - Miniature Control System in a Pocket.
 - Practical IoT Learning Package Tools.
@@ -19,7 +19,8 @@ iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for fee
 
 The fundamental difference between iTCLab and BYU's TCLab product is the replacement of the Arduino Uno microcontroller with the ESP32. By using the ESP32, iTCLab has the ability to connect to the Internet of Things (IoT).
 
-# iTCLab Upper Temperature Limit Description:
+
+## iTCLab Upper Temperature Limit Description:
 
 The upper temperature limit of the iTCLab Kit is 60 degrees Celsius. Therefore, when experimenting with this Kit, this Upper Temperature Limit must not be exceeded. Violation of this provision could cause damage (burning) to the components.
 
@@ -30,7 +31,7 @@ Although the upper limit is 60 degrees Celsius, it is still sufficient for exper
 </p>
 
 
-# Coding Upper Temperature Limit
+## Coding Upper Temperature Limit
 
 It is necessary to set a limit so that the iTCLab Kit always operates in a safe area. It must not exceed the upper limit of 60 degrees Celsius. The following is an example of an Arduino program script that must be added every time you experiment with this Kit. In the Loop, it is added that if it reaches the specified upper limit (it can be lowered slightly, for example 55 degrees Celsius), then the heater must be turned off.
 
@@ -60,13 +61,12 @@ void loop() {
  ```
 
 
-
-# iTCLab_Testing Program
+## iTCLab_Testing Program
 
 iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradually increased to the desired upper limit of 55 degrees Celsius.
 
 
-# Required Equipment:
+## Required Equipment:
 
 •	<a href="https://shopee.co.id/product/78709625/11589970517/" target="_blank">iTCLab Kit</a>
 •	<a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.ino" target="_blank">iTCLab_Testing.ino Program</a>
