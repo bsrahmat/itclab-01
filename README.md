@@ -58,8 +58,6 @@ void loop() {
   delay (100);
 }
  ```
-<br>
-</br>
 
 ## iTCLab_Testing Program
 
