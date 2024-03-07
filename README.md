@@ -74,18 +74,11 @@ iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradua
 
 - <a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf" target="_blank">iTCLab_Testing.pdf Tutorial</a>
 
-
-
-Tutorial for <b>iTCLab_Testing</b>, can be accessed at the address: https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf.
-
-An example script for testing the iTCLab Kit is as shown in the following code: https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.ino.
-
 An example of the test results is shown in the following figure.
 
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/uji01d.jpg" alt="" class="img-responsive" width="700">
 </p>
-
 
 
 <br>
