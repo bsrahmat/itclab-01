@@ -30,8 +30,6 @@ Although the upper limit is 60 degrees Celsius, it is still sufficient for exper
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/pid_control.gif" alt="" class="img-responsive" width="700">
 </p>
-<br>
-</br>
 
 ## Coding Upper Temperature Limit
 
