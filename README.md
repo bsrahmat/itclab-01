@@ -38,6 +38,7 @@ It is necessary to set a limit so that the iTCLab Kit always operates in a safe 
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/code_limit.jpg" alt="" class="img-responsive" width="700">
 </p>
 
+ ```
 void loop() {
   // put your main code here, to run repeatedly:
   cektemp();
@@ -59,6 +60,9 @@ void loop() {
   }
   delay (100);
 }
+
+ ```
+
 
 
 # iTCLab_Testing Program
