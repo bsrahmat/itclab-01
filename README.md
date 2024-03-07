@@ -57,7 +57,6 @@ void loop() {
   }
   delay (100);
 }
-
  ```
 <br>
 </br>
