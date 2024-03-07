@@ -19,6 +19,8 @@ iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for fee
 
 The fundamental difference between iTCLab and BYU's TCLab product is the replacement of the Arduino Uno microcontroller with the ESP32. By using the ESP32, iTCLab has the ability to connect to the Internet of Things (IoT).
 
+<br>
+</br>
 
 ## iTCLab Upper Temperature Limit Description:
 
@@ -30,6 +32,8 @@ Although the upper limit is 60 degrees Celsius, it is still sufficient for exper
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/pid_control.gif" alt="" class="img-responsive" width="700">
 </p>
 
+<br>
+</br>
 
 ## Coding Upper Temperature Limit
 
@@ -60,11 +64,15 @@ void loop() {
 
  ```
 
+<br>
+</br>
 
 ## iTCLab_Testing Program
 
 iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradually increased to the desired upper limit of 55 degrees Celsius.
 
+<br>
+</br>
 
 ## Required Equipment:
 
