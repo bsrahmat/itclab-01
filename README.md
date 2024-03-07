@@ -91,9 +91,9 @@ An example of the test results is shown in the following figure.
 
 <a href="https://www.igi-global.com/pdf.aspx?tid=319461&ptid=296384&ctid=4&oa=true&isxn=9781668456293" target="_blank">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>
 
-<a href="https://nstproceeding.com/index.php/nuscientech/article/view/939/892" target="_blank">Temperature Monitoring via the Internet of Things Using PID-iTCLab</a>
+<a href="https://www.academia.edu/102829350" target="_blank">Temperature Monitoring via the Internet of Things Using PID-iTCLab</a>
 
-<a href="https://nstproceeding.com/index.php/nuscientech/article/view/931/885" target="_blank">On/Off Temperature Monitoring and Control via the Internet of Things Using iTCLab Kit</a>
+<a href="https://www.academia.edu/102829413" target="_blank">On/Off Temperature Monitoring and Control via the Internet of Things Using iTCLab Kit</a>
 
 <a href="https://ieeexplore.ieee.org/document/10420130" target="_blank">iTCLab PID Control Tuning Using Deep Learning</a>
 <br>
