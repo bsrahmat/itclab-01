@@ -17,7 +17,58 @@ About these iTCLab kits :
 - It can be used to learn AI and Machine Learning Programming.
 - And others.
 
-The underlying difference between TCLab and BYU's TCLab product is replacing the Arduino Uno microcontroller with ESP32. Using this ESP32, iTCLab can connect to the Internet of Things (IoT).
+The fundamental difference between iTCLab and BYU's TCLab product is the replacement of the Arduino Uno microcontroller with the ESP32. By using the ESP32, iTCLab has the ability to connect to the Internet of Things (IoT).
+
+# iTCLab Upper Temperature Limit Description:
+
+The upper temperature limit of the iTCLab Kit is 60 degrees Celsius. Therefore, when experimenting with this Kit, this Upper Temperature Limit must not be exceeded. Violation of this provision could cause damage (burning) to the components.
+
+Although the upper limit is 60 degrees Celsius, it is still sufficient for experimenting with this Kit. And it is sufficient to see the performance of a control method. For example, control using Proportional Integral and Derivative (PID). Or to see the effect of tuning the PID parameters using the Machine Learning method. An illustration of the capabilities of this iTCLab Kit can be seen from the illustration of the performance of the BYU TCLab, as seen in the following simulation.
+
+<p align="center">
+  <img src="https://github.com/bsrahmat/itclab-01/blob/main/pid_control.gif" alt="" class="img-responsive" width="700">
+</p>
+
+
+# Coding Upper Temperature Limit
+
+It is necessary to set a limit so that the iTCLab Kit always operates in a safe area. It must not exceed the upper limit of 60 degrees Celsius. The following is an example of an Arduino program script that must be added every time you experiment with this Kit. In the Loop, it is added that if it reaches the specified upper limit (it can be lowered slightly, for example 55 degrees Celsius), then the heater must be turned off.
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  cektemp();
+  if (cel > upper_temperature_limit){
+    Q1off();
+    ledon();
+  }
+  else {
+    Q1on();
+    ledoff();
+  }
+  if (cel1 > upper_temperature_limit){
+    Q2off();
+    ledon();
+  }
+  else {
+    Q2on();
+    ledoff();
+  }
+  delay (100);
+}
+
+
+# iTCLab_Testing Program
+
+iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradually increased to the desired upper limit of 55 degrees Celsius.
+
+
+# Required Equipment:
+
+•	<a href="https://shopee.co.id/product/78709625/11589970517/" target="_blank">iTCLab Kit</a>
+•	<a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.ino" target="_blank">iTCLab_Testing.ino Program</a>
+•	<a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf" target="_blank">iTCLab_Testing.pdf Tutorial</a>
+
+
 
 Tutorial for <b>iTCLab_Testing</b>, can be accessed at the address: https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf.
 
