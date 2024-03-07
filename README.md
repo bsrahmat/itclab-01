@@ -94,6 +94,9 @@ An example of the test results is shown in the following figure.
 <a href="https://nstproceeding.com/index.php/nuscientech/article/view/939/892" target="_blank">Temperature Monitoring via the Internet of Things Using PID-iTCLab</a>
 
 <a href="https://nstproceeding.com/index.php/nuscientech/article/view/931/885" target="_blank">On/Off Temperature Monitoring and Control via the Internet of Things Using iTCLab Kit</a>
+
+<a href="https://ieeexplore.ieee.org/document/10420130" target="_blank">iTCLab PID Control Tuning Using Deep Learning</a>
+
 <br>
 </br>
 
