@@ -57,8 +57,9 @@ void loop() {
   }
   delay (100);
 }
+
  ```
-<br></br>
+
 ## iTCLab_Testing Program
 
 iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradually increased to the desired upper limit of 55 degrees Celsius.
@@ -67,9 +68,11 @@ iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradua
 
 ## Required Equipment:
 
-•	<a href="https://shopee.co.id/product/78709625/11589970517/" target="_blank">iTCLab Kit</a>
-•	<a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.ino" target="_blank">iTCLab_Testing.ino Program</a>
-•	<a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf" target="_blank">iTCLab_Testing.pdf Tutorial</a>
+- <a href="https://shopee.co.id/product/78709625/11589970517/" target="_blank">iTCLab Kit</a>
+
+- <a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.ino" target="_blank">iTCLab_Testing.ino Program</a>
+
+- <a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf" target="_blank">iTCLab_Testing.pdf Tutorial</a>
 
 
 
