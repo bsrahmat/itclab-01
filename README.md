@@ -74,12 +74,13 @@ iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradua
 
 - <a href="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Testing.pdf" target="_blank">iTCLab_Testing.pdf Tutorial</a>
 
+<br>
+</br>
 An example of the test results is shown in the following figure.
 
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/uji01d.jpg" alt="" class="img-responsive" width="700">
 </p>
-
 
 <br>
 </br>
@@ -94,7 +95,6 @@ An example of the test results is shown in the following figure.
 
 <br>
 </br>
-
 ## Other publications by the researcher:
 
 https://fitri.academia.edu/BasukiRahmat
@@ -105,7 +105,6 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 
 <br>
 </br>
-
 ## Buy the iTCLab Kits at Shopee:
 
 <p align="center">
@@ -115,7 +114,6 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 
 <br>
 </br>
-
 ## Other research by the IO-T.Net research team can be found at:
 
 https://www.io-t.net/
