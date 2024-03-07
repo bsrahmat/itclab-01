@@ -76,7 +76,9 @@ iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradua
 
 <br>
 </br>
+
 An example of the test results is shown in the following figure.
+
 
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/uji01d.jpg" alt="" class="img-responsive" width="700">
@@ -92,9 +94,9 @@ An example of the test results is shown in the following figure.
 <a href="https://nstproceeding.com/index.php/nuscientech/article/view/939/892" target="_blank">Temperature Monitoring via the Internet of Things Using PID-iTCLab</a>
 
 <a href="https://nstproceeding.com/index.php/nuscientech/article/view/931/885" target="_blank">On/Off Temperature Monitoring and Control via the Internet of Things Using iTCLab Kit</a>
-
 <br>
 </br>
+
 ## Other publications by the researcher:
 
 https://fitri.academia.edu/BasukiRahmat
@@ -102,18 +104,18 @@ https://fitri.academia.edu/BasukiRahmat
 https://www.researchgate.net/profile/Basuki-Rahmat-2
 
 https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
-
 <br>
 </br>
+
 ## Buy the iTCLab Kits at Shopee:
 
 <p align="center">
 <a href="https://shopee.co.id/product/78709625/11589970517" target="_blank"><img src="https://github.com/bsrahmat/itclab-01/blob/main/shopee_kit1.jpg" alt="" class="img-responsive" width="700">
 </a>
 </p>
-
 <br>
 </br>
+
 ## Other research by the IO-T.Net research team can be found at:
 
 https://www.io-t.net/
