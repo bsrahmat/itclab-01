@@ -34,6 +34,10 @@ Although the upper limit is 60 degrees Celsius, it is still sufficient for exper
 
 It is necessary to set a limit so that the iTCLab Kit always operates in a safe area. It must not exceed the upper limit of 60 degrees Celsius. The following is an example of an Arduino program script that must be added every time you experiment with this Kit. In the Loop, it is added that if it reaches the specified upper limit (it can be lowered slightly, for example 55 degrees Celsius), then the heater must be turned off.
 
+<p align="center">
+  <img src="https://github.com/bsrahmat/itclab-01/blob/main/code_limit.jpg" alt="" class="img-responsive" width="700">
+</p>
+
 void loop() {
   // put your main code here, to run repeatedly:
   cektemp();
