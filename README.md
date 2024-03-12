@@ -88,7 +88,7 @@ iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradua
 
 - <a href="https://www.academia.edu/115795927" target="_blank">https://www.academia.edu/115795927</a>
 
-- <a href="https://www.researchgate.net/publication/378710702" target="_blank">https://www.researchgate.net/publication/378710702</a>
+- <a href="https://www.researchgate.net/publication/378898855" target="_blank">https://www.researchgate.net/publication/378898855</a>
 
 <br>
 </br>
