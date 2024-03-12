@@ -77,6 +77,15 @@ iTCLab_Testing is a simple iTCLab Kit testing program. The temperature is gradua
 <br>
 </br>
 
+### Another alternative is to download the tutorial:
+
+- <a href="•	https://www.academia.edu/115795927" target="_blank">•	https://www.academia.edu/115795927</a>
+
+- <a href="•	https://www.researchgate.net/publication/378710702" target="_blank">•	https://www.researchgate.net/publication/378710702</a>
+
+<br>
+</br>
+
 An example of the test results is shown in the following figure.
 
 
