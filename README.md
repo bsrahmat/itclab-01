@@ -247,6 +247,8 @@ An example of the test results is shown in the following figure.
 <br>
 </br>
 
+If the power adapter is connected to electricity, the measured temperature will go towards the upper limit:
+
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Test2.png" alt="" class="img-responsive" width="700">
 </p>
