@@ -241,7 +241,7 @@ An example of the test results is shown in the following figure.
 
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/itclab-01/blob/main/uji01d.jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/bsrahmat/itclab-01/blob/main/iTCLab_Test1.png" alt="" class="img-responsive" width="700">
 </p>
 
 <br>
