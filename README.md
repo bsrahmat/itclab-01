@@ -278,6 +278,12 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 <br>
 </br>
 
+## Scopus Publications:
+
+
+<br>
+</br>
+
 ## Buy the iTCLab Kits at Shopee:
 
 <p align="center">
