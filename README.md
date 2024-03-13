@@ -279,6 +279,9 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 </br>
 
 ## Scopus Publications:
+| Scopus Publications                                                                                       | BibTeX download to cite                                                                |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------|
+| [ITCLab PID Control Tuning Using Deep Learning] (https://ieeexplore.ieee.org/document/10420130)           | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas01.bib)  |
 
 
 <br>
