@@ -258,23 +258,12 @@ If the power adapter is connected to electricity, the measured temperature will 
 
 ## An example of a publication related to this Kits:
 
-<a href="https://www.igi-global.com/pdf.aspx?tid=319461&ptid=296384&ctid=4&oa=true&isxn=9781668456293" target="_blank">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>
-
-<a href="https://www.academia.edu/102829350" target="_blank">Temperature Monitoring via the Internet of Things Using PID-iTCLab</a>
-
-<a href="https://www.academia.edu/102829413" target="_blank">On/Off Temperature Monitoring and Control via the Internet of Things Using iTCLab Kit</a>
-
-<a href="https://ieeexplore.ieee.org/document/10420130" target="_blank">iTCLab PID Control Tuning Using Deep Learning</a>
-<br>
-</br>
-
-## Other publications by the researcher:
-
-https://fitri.academia.edu/BasukiRahmat
-
-https://www.researchgate.net/profile/Basuki-Rahmat-2
-
-https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
+| Num  | iTCLab Publication Articles                                                                                                                                                     | Download BibTex Citation                                                                 |
+| -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|  01  |<a href="https://www.researchgate.net/publication/368801589">iTCLab Temperature Monitoring and Control System Based on PID and Internet of Things (IoT)</a>                      | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab01.bib) |
+|  02  |<a href="https://www.researchgate.net/publication/378937580">Temperature Monitoring via the Internet of Things Using PID-iTCLab</a>                                              | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+|  03  |<a href="https://www.researchgate.net/publication/378938102">On/Off Temperature Monitoring and Control via the Internet of Things Using iTCLab Kit</a>                           | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab03.bib) |
+|  04  |<a href="https://ieeexplore.ieee.org/document/10420130">ITCLab PID Control Tuning Using Deep Learning</a>                                                                        | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas01.bib)    |
 <br>
 </br>
 
@@ -299,6 +288,17 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 |  15  |<a href="https://ieeexplore.ieee.org/document/10010285">Poor Population Classification System Using Convolutional Neural Network</a>                                             | [Suaib,Rahmat et al. (2022)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas15.bib) |
 |  16  |<a href="https://www.engineeringletters.com/issues_v30/issue_3/EL_30_3_16.pdf">Performance of Optimized CSK, DFT, and LOT for Video-based Container Tracking System using SA</a> | [Endra,Rahmat et al. (2022)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas16.bib) |
 |  17  |<a href="https://ieeexplore.ieee.org/document/9321094">Combining of extraction butterfly image using color, texture and form features</a>                                        | [Dhian,Rahmat et al. (2020)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas17.bib) |
+
+<br>
+</br>
+
+## Other publications by the researcher:
+
+https://fitri.academia.edu/BasukiRahmat
+
+https://www.researchgate.net/profile/Basuki-Rahmat-2
+
+https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 
 <br>
 </br>
